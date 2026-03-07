@@ -1,6 +1,5 @@
 # 💫 About Me:
-Name: Arnold Wilson Fernandes.<br><br>🖥️ I'm Just a curious kid who wants to learn new things and looking forward to building more projects.<br>📖 I'm currently pursuing my bachelors degree.<br><br>Hobbies: Apart from academics i like singing, clicking pictures,and<br>Play football in my free time.<br><br><br>
-
+Name: Arnold Wilson Fernandes.<br><br>🖥️ I'm Just a curious kid who wants to learn new things and looking forward to building more projects.<br>📖 I'm currently pursuing my bachelors degree.<br><br>Hobbies: Apart from academics i like singing, playing football,and clicking pictures in my free time.<br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnoldfernandes1945) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__arnold__19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnoldfern.1945@gmail.com) 
