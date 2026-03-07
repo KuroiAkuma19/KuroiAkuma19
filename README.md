@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Arnold Wilson Fernandes.<br><br>🖥️ I'm Just a curious kid who wants to learn new things<br>and looking forward to building more projects.<br>📖 I'm currently pursuing my bachelors degree.<br><br>Hobbies: Apart from academics i like singing, clicking pictures,and<br>Play football in my free time.<br><br><br>
+Name: Arnold Wilson Fernandes.<br><br>🖥️ I'm Just a curious kid who wants to learn new things and looking forward to building more projects.<br>📖 I'm currently pursuing my bachelors degree.<br><br>Hobbies: Apart from academics i like singing, clicking pictures,and<br>Play football in my free time.<br><br><br>
 
 
 ## 🌐 Socials:
